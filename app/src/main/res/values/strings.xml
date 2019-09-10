@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="tela1">Dados Básicos</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="dadosAdicionais">Dados Adicionais</string>
+    <string name="endereco"> Endereço:</string>
+    <string name="telefone"> Telefone: </string>
+    <string name="dadosComplementares">Dados Complementares</string>
+</resources>
